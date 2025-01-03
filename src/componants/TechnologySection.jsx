@@ -247,7 +247,7 @@ const TechnologySection = () => {
 
 
         {/* Technologies Marquee */}
-        <div className="mt-20 overflow-hidden items-center">
+        {/* <div className="mt-20 overflow-hidden items-center">
           <div className="flex items-center justify-center">
             <div className="flex space-x-8 animate-marquee">
               <div className="flex items-center justify-center w-24 h-24 rounded-xl bg-neutral-800/50 border border-neutral-700">
@@ -269,7 +269,7 @@ const TechnologySection = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   </div>
