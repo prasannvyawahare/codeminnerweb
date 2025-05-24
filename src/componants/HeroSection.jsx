@@ -8,7 +8,7 @@ const HeroSection = () => {
   {/* Background Effects */}
   <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-orange-900/20 via-neutral-900/0 to-neutral-900/0" />
   {/* Content */}
-  <div className="flex flex-col item-center mt-1 lg:mt-1 py-10 px-20 ">
+  <div className="flex flex-col item-center mt-1 lg:mt-1 py-5 px-20 ">
         <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
         CodeMinners-Mining the Depths of 
         <span className="bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text"> Digital Solutions.</span>
