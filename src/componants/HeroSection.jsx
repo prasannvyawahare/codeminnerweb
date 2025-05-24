@@ -35,9 +35,8 @@ const HeroSection = () => {
                  Your browser not support video tag.
                 </video>
             </div> */}
-    </div>
-
- <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+    
+     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {/* Team Member 1 */}
         <div className="group relative p-8 rounded-2xl border border-neutral-800 bg-neutral-900/50 backdrop-blur-sm hover:border-indigo-500/50 transition-colors duration-300">
           <div className="flex flex-col items-center">
@@ -209,6 +208,9 @@ const HeroSection = () => {
         </div>
       </div>
 </div>
+    </div>
+
+
     </BackgroundBeamsWithCollision>
    
 
