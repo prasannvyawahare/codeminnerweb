@@ -16,7 +16,7 @@ const HeroSection = () => {
         <p className="mt-10 text-lg text-center text-neutral-400 max-w-9xl">
             We craft cutting-edge software solutions that drive innovation and deliver exceptional user experiences.
             </p>
-            <div className="flex justify-center my-10">
+            {/* <div className="flex justify-center my-10">
                 <a href="#" className="bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3
                 rounded-md ">
                     Start Your Project
@@ -24,7 +24,7 @@ const HeroSection = () => {
                 <a href="#" className="py-3 px-4 mx-3 rounded-md border">
                     View Our Work
                 </a>
-            </div>
+            </div> */}
     </div>
 
 
