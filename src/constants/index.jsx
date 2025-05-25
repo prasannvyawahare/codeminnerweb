@@ -13,13 +13,12 @@ import user5 from "../assets/profile-pictures/user5.jpg";
 import user6 from "../assets/profile-pictures/user6.jpg";
 
 export const navItems = [
-  { label: "Home", href: "#" },
-  { label: "Features", href: "#" },
-  { label: "Technology", href: "#" },
-  { label: "Development", href: "#" },
-  { label: "Team", href: "#" },
+  { label: "Home", href: "#home" },
+  { label: "Client Stories", href: "#client_stories" },
+  { label: "Features", href: "#features" },
+  { label: "Technology", href: "#technology" },
+  { label: "Development", href: "#development" },
 ];
-
 export const testimonials = [
   {
     user: "John Doe",
