@@ -145,7 +145,7 @@ const TeamSection = () => {
               />
             </div>
             <h3 className="text-xl font-bold text-white mb-2">
-              Jay Parmar
+             Ajinkya Bhandakkar
             </h3>
             <p className="text-blue-400 mb-4">Cloud Architect</p>
             <p className="text-neutral-400 text-center mb-6">

@@ -1,6 +1,8 @@
 
 
 const ClientSection = () => {
+
+  
   return (
     <div id="root">
     <section id="testimonials" className="relative py-24 bg-neutral-900">
